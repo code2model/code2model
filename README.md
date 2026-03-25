@@ -7,15 +7,15 @@
 
 ---
 
-## 🚀 About Me: code2model
+##  About Me: code2model
 I am a hybrid developer focused on the **code2model** workflow transforming complex logic into intelligent, autonomous systems. I bridge the gap between **Full-Code ML engineering** and **No-Code agility**.
 
-- 🔭 **I’m currently working on:** Optimizing the **code2model** pipeline for autonomous AI agents.
-- 👯 **I’m looking to collaborate on:** Open-source LLM projects and advanced **n8n** automation.
-- 🤝 **I’m looking for help with:** Scaling RAG (Retrieval-Augmented Generation) for enterprise datasets.
-- 🌱 **I’m currently learning:** Multi-Agent Orchestration and fine-tuning SLMs (Small Language Models).
-- 💬 **Ask me about:** **Python**, **n8n**, **Tableau/PowerBI**, and why hybrid AI is the future.
-- ⚡ **Fun fact:** I build AI automations faster than my model can converge.
+- **I’m currently working on:** Optimizing the **code2model** pipeline for autonomous AI agents.
+- **I’m looking to collaborate on:** Open-source LLM projects and advanced **n8n** automation.
+- **I’m looking for help with:** Scaling RAG (Retrieval-Augmented Generation) for enterprise datasets.
+- **I’m currently learning:** Multi-Agent Orchestration and fine-tuning SLMs (Small Language Models).
+- **Ask me about:** **Python**, **n8n**, **Tableau/PowerBI**, and why hybrid AI is the future.
+- **Fun fact:** I build AI automations faster than my model can converge.
 
 ---
 
