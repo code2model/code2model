@@ -1,5 +1,5 @@
 # Hi there,
-### AI Architect | Full-Stack Developer | Automation Specialist
+### Python AI/ML Engineer | Chatbots (Text + Voice) | Computer Vision & NLP Expert
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR-GITHUB-USERNAME" />
