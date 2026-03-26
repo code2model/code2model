@@ -21,7 +21,7 @@ I am a hybrid developer focused on the **code2model** workflow transforming comp
 
 ## 🛠️ Tech Stack & Tools
 - **AI/ML:** Python, PyTorch, TensorFlow, Scikit-learn, LLMs (GPT, Llama, Claude)
-- **Automation:** n8n, Zapier, LangChain
+- **Automation:** n8n, Zapier, LangChain, VAPI.ai, Retell.ai, Twilio
 - **Data & Viz:** Tableau, PowerBI, Pandas, SQL
 - **Deployment:** Docker, AWS, Streamlit
 ##  Tech Stack
